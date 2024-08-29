@@ -7,6 +7,6 @@ sphinx_rtd_theme
 coverage
 mpi4py
 cloudpickle
-matplotlib<3.4
+matplotlib<=3.4.3
 tqdm
 pot
