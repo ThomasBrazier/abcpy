@@ -1,4 +1,4 @@
-numpy
+numpy<=1.2.3
 scipy
 scikit-learn>=0.23.1
 glmnet>=2.2.1
@@ -7,6 +7,6 @@ sphinx_rtd_theme
 coverage
 mpi4py
 cloudpickle
-matplotlib
+matplotlib<=3.5.3
 tqdm
 pot
